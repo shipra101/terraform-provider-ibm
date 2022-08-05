@@ -27,7 +27,7 @@ variable "app_version" {
 }
 
 variable "git_repo" {
-  default = "https://github.com/hkantare/cf-cloudant-python.git"
+  default = "https://github.com/hkantare/cfcloudant-python.git"
 }
 
 variable "dir_to_clone" {
