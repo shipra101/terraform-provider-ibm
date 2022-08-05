@@ -26,7 +26,7 @@ variable "subnet_id" {
 }
 
 variable "service_instance_name" {
-  default = "myservice"
+  default = "myservic"
 }
 
 variable "service_key" {
