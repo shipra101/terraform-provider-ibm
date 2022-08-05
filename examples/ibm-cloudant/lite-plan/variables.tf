@@ -1,6 +1,6 @@
 // Resource arguments for ibmcloud_api_key
 variable "ibmcloud_api_key" {
-  description = "IBM Cloud API key."
+  description = "IBM Cloud API key"
   type        = string
 }
 
